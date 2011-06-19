@@ -1,23 +1,27 @@
 <?xml version="1.0"?>
 <catalog>
-   <item id="101">
-      <title>Peluche bleu</title>
-      <price>44.95</price>
-      <description>An in-depth look at creating applications with XML.</description>
-   </item>
-   <item id="102">
-      <title>Peluche Rose</title>
-      <price>5.95</price>
-      <description>A former architect battles corporate zombies, an evil sorceress, and her own childhood to become queen of the world.</description>
-   </item>
-   <item id="103">
-      <title>Peluche Verte</title>
-      <price>5.95</price>
-      <description>After the collapse of a nanotechnology society in England, the young survivors lay the foundation for a new society.</description>
-   </item>
-   <item id="104">
-      <title>Peluche Jaune</title>
-      <price>5.95</price>
-      <description>In post-apocalypse England, the mysterious agent known only as Oberon helps to create a new life for the inhabitants of London. Sequel to Maeve Ascendant.</description>
-   </item>
+    <item>
+        <id>101</id>
+        <title>Peluche bleu</title>
+        <price>44.95</price>
+        <description>An in-depth look at creating applications with XML.</description>
+    </item>
+    <item>
+        <id>102</id>
+        <title>Peluche Rose</title>
+        <price>5.95</price>
+        <description>A former architect battles corporate zombies, an evil sorceress, and her own childhood to become queen of the world.</description>
+    </item>
+    <item>
+        <id>103</id>
+        <title>Peluche Verte</title>
+        <price>5.95</price>
+        <description>After the collapse of a nanotechnology society in England, the young survivors lay the foundation for a new society.</description>
+    </item>
+    <item>
+        <id>104</id>
+        <title>Peluche Jaune</title>
+        <price>5.95</price>
+        <description>In post-apocalypse England, the mysterious agent known only as Oberon helps to create a new life for the inhabitants of London. Sequel to Maeve Ascendant.</description>
+    </item>
 </catalog>
